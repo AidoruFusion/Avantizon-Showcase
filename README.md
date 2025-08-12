@@ -52,7 +52,7 @@ As CTO, I lead Avantizon’s technical direction. My responsibilities include:
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
 **Frontend:** React.js, Tailwind CSS  
 **Backend:** Firebase (Authentication, Firestore, Cloud Storage)  
