@@ -5,7 +5,7 @@
 
 ---
 
-##  Overview  
+## Overview  
 Avantizon is an innovative online marketplace designed to connect freelancers and small-to-medium businesses (SMBs) with clients seeking both **in-person** and **online** services.  
 
 The platform also integrates:  
