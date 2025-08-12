@@ -80,8 +80,7 @@ The **full source code** is stored in a private repository for security and inte
 ---
 
 ##  Contact  
-**Nuel Nelson** – Chief Technology Officer (CTO)  
-📧 Nuel  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+**Nuel Ndubuka** – Chief Technology Officer (CTO)    
+ [LinkedIn](https://www.linkedin.com/in/nuel-ndubuka-110129227/)  
 
 ---
